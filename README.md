@@ -1,17 +1,62 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Atharva Yadav<br><br>I'm an **Agentic AI Engineer** and **Machine Learning Engineer** passionate about building production-ready AI systems that leverage **Large Language Models (LLMs), Agentic AI, and modern Machine Learning** to solve real-world problems.<br><br>Currently, I'm pursuing a **B.E. in Electronics & Telecommunication Engineering** at **Vishwakarma Institute of Information Technology (VIIT), Pune**, while working as a **Generative AI Engineer Intern** at AI India Innovations.<br><br>My work focuses on designing intelligent AI applications using **Large Language Models (LLMs), Agentic AI, Multi-Agent Systems, Retrieval-Augmented Generation (RAG), AI Agents, LangChain, LangGraph, Prompt Engineering, Context Engineering, Function Calling, Structured Output, Vector Databases, Model Evaluation, AI Automation, and LLM Fine-Tuning (LoRA, QLoRA, PEFT)**.
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-yadav-02879037a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvay774@gmail.com) 
+# Atharva Yadav
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=atharvay774&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=atharvay774&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=atharvay774&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Agentic AI &amp; Machine Learning Engineer**
+
+I build the layer between a non-deterministic model and production — deterministic routing, grounded retrieval, and verification that refuses ungrounded output.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:atharvay774@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-yadav-02879037a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/atharvay774)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=atharvay774&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+Electronics &amp; Telecommunication undergrad at VIIT Pune (B.E., 2027), currently a Generative AI Engineer intern at AI India Innovations. I focus on the hard part of applied AI: making probabilistic models behave predictably in production — constraining actions with finite-state gating, scoping retrieval so answers stay grounded, and building the evaluation and verification layers that catch failures before users do.
+
+**Open to Agentic AI Engineer and Machine Learning Engineer roles.**
+
+## Selected work
+
+| Project | Summary | Stack | Highlight |
+|---|---|---|---|
+| **[HMI Automation Copilot](#)** | Natural-language control of a desktop HMI app, gated so the LLM can't take unsafe actions | Streamlit · Groq · pywinauto · FSM | Whitelist-validated routing + 49-assertion regression suite |
+| **[Hybrid-RAG Clinical Chatbot](#)** | Q&amp;A over 300+ multi-visit patient documents; refuses any answer not grounded in retrieved evidence | ChromaDB · SQL · hybrid retrieval | Episode-aware scoping + source traceability |
+| **[Self-Debugging Data Analyst](#)** | Natural language → validated SQL over 50K+ row datasets, with retry-on-failure | Streamlit · SQLite · Gemini · sqlglot | ~70% fewer failed executions via AST validation |
+| **[Multi-Agent Research System](#)** | 5 agents decompose a task, research in parallel, and produce citation-backed reports | FastAPI · LangGraph · Groq · Tavily | Shared-state orchestration + verification loops |
+| **[Neuro-Symbolic Spacecraft Navigator](#)** | PPO agent flies a 2D orbital sim while a symbolic layer vetoes unsafe maneuvers | Stable-Baselines3 · NumPy · PPO | 9 checks/step · sub-2 ms · zero unsafe executions |
+
+> Replace each `(#)` with the project's repo or demo link before publishing.
+
+## Experience
+
+**Generative AI Engineer Intern** — AI India Innovations · *Jun 2026 – Present*
+Built an FSM-gated LLM automation copilot, a multilingual speaker-diarizing speech-to-text system (Deepgram), and a grounded hybrid-RAG clinical chatbot over 300+ documents.
+
+**AI Developer (Industry Project)** — FastLink Express · *Aug 2025 – Feb 2026*
+Built a RAG support &amp; shipment-tracking chatbot with a policy-driven billing engine and structured output — 95% intent accuracy across 200+ queries; fine-tuned a 2B-parameter chat model on domain data.
+
+## Technical skills
+
+**Core:** Python · LangChain / LangGraph · agent orchestration · hybrid RAG · FastAPI · Pydantic structured output
+**Reliability &amp; evaluation:** FSM state gating · whitelist routing · verification loops · regression/assertion suites · LLM-as-judge
+**Data:** SQL · Pandas · NumPy · SQLite · EDA · ChromaDB · FAISS
+**Familiar:** LoRA/QLoRA fine-tuning · speech-to-text &amp; diarization · reinforcement learning (PPO) · Docker
+
+## Education &amp; certifications
+
+**B.E. Electronics &amp; Telecommunication Engineering** — VIIT, Pune (2023–2027) · CGPA 8.56/10
+IBM RAG and Agentic AI · Google Data Analytics Professional Certificate · Databases and SQL for Data Science (IBM)
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=atharvay774&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvay774&layout=compact&hide_border=true&langs_count=8" height="160" alt="Top languages" />
+
+</div>
