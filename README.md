@@ -36,25 +36,37 @@ open_to   = ["Agentic AI Engineer", "Machine Learning Engineer"]
 ### `$ ls tech-stack/`
 
 **Languages & Core**
-![](https://skillicons.dev/icons?i=py,fastapi,sqlite,git,github,vscode,jupyter)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF&labelColor=0D1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00F0FF&labelColor=0D1117)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=00F0FF&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00F0FF&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00F0FF&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00F0FF&labelColor=0D1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00F0FF&labelColor=0D1117)
 
 **Agentic AI & LLM**
-![](https://skillicons.dev/icons?i=langchain)
-![Groq](https://img.shields.io/badge/Groq-00F0FF?style=flat-square&labelColor=0D1117&color=0D1117)
-![LangGraph](https://img.shields.io/badge/LangGraph-00F0FF?style=flat-square&labelColor=0D1117&color=0D1117)
-![RAG](https://img.shields.io/badge/RAG-00F0FF?style=flat-square&labelColor=0D1117&color=0D1117)
-![FAISS](https://img.shields.io/badge/FAISS-00F0FF?style=flat-square&labelColor=0D1117&color=0D1117)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-00F0FF?style=flat-square&labelColor=0D1117&color=0D1117)
-![Gemini API](https://img.shields.io/badge/Gemini_API-00F0FF?style=flat-square&labelColor=0D1117&color=0D1117)
-![Deepgram](https://img.shields.io/badge/Deepgram-00F0FF?style=flat-square&labelColor=0D1117&color=0D1117)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logoColor=00F0FF&labelColor=0D1117&color=0D1117)
+![Groq](https://img.shields.io/badge/Groq-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+![FAISS](https://img.shields.io/badge/FAISS-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+![Gemini API](https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=googlegemini&logoColor=00F0FF&labelColor=0D1117&color=0D1117)
+![Deepgram](https://img.shields.io/badge/Deepgram-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 
 **Data & Analytics**
-![](https://skillicons.dev/icons?i=pandas,numpy,matplotlib,plotly,powerbi)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00F0FF&labelColor=0D1117)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00F0FF&labelColor=0D1117)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=flat-square&logo=plotly&logoColor=00F0FF&labelColor=0D1117)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=00F0FF&labelColor=0D1117)
 
 **Frameworks & Tools**
-![](https://skillicons.dev/icons?i=streamlit,nodejs,docker)
-![Pydantic](https://img.shields.io/badge/Pydantic-00F0FF?style=flat-square&labelColor=0D1117&color=0D1117)
-![Stable-Baselines3](https://img.shields.io/badge/Stable_Baselines3-00F0FF?style=flat-square&labelColor=0D1117&color=0D1117)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=00F0FF&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00F0FF&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00F0FF&labelColor=0D1117)
+![Pydantic](https://img.shields.io/badge/Pydantic-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
+![Stable-Baselines3](https://img.shields.io/badge/Stable_Baselines3-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 
 ---
 
@@ -83,7 +95,7 @@ open_to   = ["Agentic AI Engineer", "Machine Learning Engineer"]
 ### `$ ls featured-projects/`
 
 <details open>
-<summary><b>🩺 <a href="https://github.com/atharvay774/Omni-Lens">Hybrid-RAG Clinical Chatbot</a></b></summary><br>
+<summary><b>🩺 <a href="https://github.com/atharvay774/Omni-Lens">Omni Lens</a></b></summary><br>
 
 | | |
 |---|---|
@@ -95,7 +107,7 @@ open_to   = ["Agentic AI Engineer", "Machine Learning Engineer"]
 </details>
 
 <details>
-<summary><b>🤖 <a href="https://github.com/atharvay774/market-mind">HMI Automation Copilot</a></b></summary><br>
+<summary><b>🤖 <a href="https://github.com/atharvay774/market-mind">Market Mind</a></b></summary><br>
 
 | | |
 |---|---|
@@ -213,22 +225,6 @@ open_to   = ["Agentic AI Engineer", "Machine Learning Engineer"]
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvay774&bg_color=0D1117&color=00F0FF&line=00F0FF&point=E6FDFF&area=true&area_color=00B8D9&hide_border=true" width="100%"/>
-</div>
-
----
-
-### `$ ./summary-cards.sh`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=atharvay774&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=atharvay774&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=atharvay774&theme=github_dark" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=atharvay774&theme=github_dark" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=atharvay774&theme=github_dark" width="49%"/>
-
 </div>
 
 ---
