@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00F0FF,100:0D1117&height=220&section=header&text=Atharva%20Yadav&fontSize=52&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%7C%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&descColor=E6FDFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:39FF14,100:0D1117&height=220&section=header&text=Atharva%20Yadav&fontSize=52&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20%7C%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18&descColor=E9FFE0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00F0FF&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+agentic-ai-engineer;%24+stack+%E2%86%92+langchain+%2F+langgraph+%2F+fastapi+%2F+rag;%24+focus+%E2%86%92+deterministic+gating+%2B+grounded+retrieval;%24+building+%E2%86%92+int8+quantization+of+qwen3-0.6b;%24+status+%E2%86%92+open_to_work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+agentic-ai-engineer;%24+stack+%E2%86%92+langchain+%2F+langgraph+%2F+fastapi+%2F+rag;%24+focus+%E2%86%92+deterministic+gating+%2B+grounded+retrieval;%24+building+%E2%86%92+int8+quantization+of+qwen3-0.6b;%24+status+%E2%86%92+open_to_work" alt="Typing SVG" />
 
-[![University](https://img.shields.io/badge/VIIT_Pune-B.E._E%26TC_2027-0D1117?style=flat-square&logo=googlescholar&logoColor=00F0FF&labelColor=0D1117&color=0D1117&logoWidth=15)](https://github.com/atharvay774)
-[![Location](https://img.shields.io/badge/Pune-India-0D1117?style=flat-square&logo=googlemaps&logoColor=00F0FF&labelColor=0D1117)](https://github.com/atharvay774)
-[![CGPA](https://img.shields.io/badge/CGPA-8.56%2F10-0D1117?style=flat-square&logo=bookstack&logoColor=00F0FF&labelColor=0D1117)](https://github.com/atharvay774)
+[![University](https://img.shields.io/badge/VIIT_Pune-B.E._E%26TC_2027-0D1117?style=flat-square&logo=googlescholar&logoColor=39FF14&labelColor=0D1117&color=0D1117&logoWidth=15)](https://github.com/atharvay774)
+[![Location](https://img.shields.io/badge/Pune-India-0D1117?style=flat-square&logo=googlemaps&logoColor=39FF14&labelColor=0D1117)](https://github.com/atharvay774)
+[![CGPA](https://img.shields.io/badge/CGPA-8.56%2F10-0D1117?style=flat-square&logo=bookstack&logoColor=39FF14&labelColor=0D1117)](https://github.com/atharvay774)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/atharva-yadav-02879037a/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:atharvay774@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-atharvay774-00F0FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/atharvay774)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/atharva-yadav-02879037a/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-39FF14?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:atharvay774@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-atharvay774-39FF14?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/atharvay774)
 
-![Profile Views](https://komarev.com/ghpvc/?username=atharvay774&color=00F0FF&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/atharvay774?style=flat-square&color=00F0FF&labelColor=0D1117&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/atharvay774?style=flat-square&color=00F0FF&labelColor=0D1117&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=atharvay774&color=39FF14&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/atharvay774?style=flat-square&color=39FF14&labelColor=0D1117&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/atharvay774?style=flat-square&color=39FF14&labelColor=0D1117&label=STARS)
 
 </div>
 
@@ -36,35 +36,35 @@ open_to   = ["Agentic AI Engineer", "Machine Learning Engineer"]
 ### `$ ls tech-stack/`
 
 **Languages & Core**
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F0FF&labelColor=0D1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00F0FF&labelColor=0D1117)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=00F0FF&labelColor=0D1117)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00F0FF&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00F0FF&labelColor=0D1117)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00F0FF&labelColor=0D1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00F0FF&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39FF14&labelColor=0D1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39FF14&labelColor=0D1117)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=39FF14&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=39FF14&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=39FF14&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=39FF14&labelColor=0D1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=39FF14&labelColor=0D1117)
 
 **Agentic AI & LLM**
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logoColor=00F0FF&labelColor=0D1117&color=0D1117)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=0D1117)
 ![Groq](https://img.shields.io/badge/Groq-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 ![RAG](https://img.shields.io/badge/RAG-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 ![FAISS](https://img.shields.io/badge/FAISS-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
-![Gemini API](https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=googlegemini&logoColor=00F0FF&labelColor=0D1117&color=0D1117)
+![Gemini API](https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=googlegemini&logoColor=39FF14&labelColor=0D1117&color=0D1117)
 ![Deepgram](https://img.shields.io/badge/Deepgram-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 
 **Data & Analytics**
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00F0FF&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00F0FF&labelColor=0D1117)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=39FF14&labelColor=0D1117)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=39FF14&labelColor=0D1117)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
-![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=flat-square&logo=plotly&logoColor=00F0FF&labelColor=0D1117)
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=00F0FF&labelColor=0D1117)
+![Plotly](https://img.shields.io/badge/Plotly-0D1117?style=flat-square&logo=plotly&logoColor=39FF14&labelColor=0D1117)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=flat-square&logo=powerbi&logoColor=39FF14&labelColor=0D1117)
 
 **Frameworks & Tools**
-![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=00F0FF&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00F0FF&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00F0FF&labelColor=0D1117)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=39FF14&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF14&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=39FF14&labelColor=0D1117)
 ![Pydantic](https://img.shields.io/badge/Pydantic-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 ![Stable-Baselines3](https://img.shields.io/badge/Stable_Baselines3-0D1117?style=flat-square&labelColor=0D1117&color=0D1117)
 
@@ -72,10 +72,10 @@ open_to   = ["Agentic AI Engineer", "Machine Learning Engineer"]
 
 ### `$ cat specialties.yaml`
 
-![Deterministic Gating](https://img.shields.io/badge/FSM%20State%20Gating-0D1117?style=for-the-badge&logo=semanticweb&logoColor=00F0FF&labelColor=0D1117)
-![Grounded RAG](https://img.shields.io/badge/Grounded%20RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=00F0FF&labelColor=0D1117)
+![Deterministic Gating](https://img.shields.io/badge/FSM%20State%20Gating-0D1117?style=for-the-badge&logo=semanticweb&logoColor=39FF14&labelColor=0D1117)
+![Grounded RAG](https://img.shields.io/badge/Grounded%20RAG-0D1117?style=for-the-badge&logo=databricks&logoColor=39FF14&labelColor=0D1117)
 ![Runtime Verification](https://img.shields.io/badge/Runtime%20Verification-0D1117?style=for-the-badge&logo=checkmarx&logoColor=FF2E63&labelColor=0D1117)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-0D1117?style=for-the-badge&logo=graphql&logoColor=00F0FF&labelColor=0D1117)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-0D1117?style=for-the-badge&logo=graphql&logoColor=39FF14&labelColor=0D1117)
 
 ---
 
@@ -194,7 +194,7 @@ open_to   = ["Agentic AI Engineer", "Machine Learning Engineer"]
 
 ### `$ cat education.md`
 
-[![VIIT Pune](https://img.shields.io/badge/VIIT_Pune-B.E._Electronics_%26_Telecommunication-0D1117?style=for-the-badge&logo=googlescholar&logoColor=00F0FF&labelColor=0D1117)](https://github.com/atharvay774)
+[![VIIT Pune](https://img.shields.io/badge/VIIT_Pune-B.E._Electronics_%26_Telecommunication-0D1117?style=for-the-badge&logo=googlescholar&logoColor=39FF14&labelColor=0D1117)](https://github.com/atharvay774)
 
 **Certifications:** IBM RAG and Agentic AI Certification · Google Data Analytics Professional Certificate · Databases and SQL for Data Science with Python (IBM)
 
@@ -204,10 +204,10 @@ open_to   = ["Agentic AI Engineer", "Machine Learning Engineer"]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atharvay774&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=E6FDFF&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvay774&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=FF2E63&currStreakLabel=00F0FF&sideLabels=E6FDFF&currStreakNum=E6FDFF&sideNums=E6FDFF&dates=E6FDFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atharvay774&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=E9FFE0&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvay774&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=FF2E63&currStreakLabel=39FF14&sideLabels=E9FFE0&currStreakNum=E9FFE0&sideNums=E9FFE0&dates=E9FFE0" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvay774&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E6FDFF&langs_count=8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvay774&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=E9FFE0&langs_count=8" width="49%"/>
 
 </div>
 
@@ -224,7 +224,7 @@ open_to   = ["Agentic AI Engineer", "Machine Learning Engineer"]
 ### `$ tail -f activity.log`
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvay774&bg_color=0D1117&color=00F0FF&line=00F0FF&point=E6FDFF&area=true&area_color=00B8D9&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharvay774&bg_color=0D1117&color=39FF14&line=39FF14&point=E9FFE0&area=true&area_color=1FCC3D&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -255,12 +255,12 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/atharva-yadav-02879037a/)
-[![Email](https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:atharvay774@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00F0FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/atharvay774)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/atharva-yadav-02879037a/)
+[![Email](https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:atharvay774@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117)](https://github.com/atharvay774)
 
 *"Making probabilistic models behave predictably in production."*
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:00F0FF,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:39FF14,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
